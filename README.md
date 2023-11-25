@@ -23,6 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p>
     <img src="https://drive.google.com/uc?export=view&id=1swOUDBcafxRd8n3-Vnxny5oJRT43RjGE" alt="HTML" width="40" height="40"/>
     <img src="https://drive.google.com/uc?export=view&id=1i7fY5_ZU85hpEVx6XZmzdUOSI1nXOH2o" alt="CSS" width="40" height="40"/>
     <img src="https://drive.google.com/uc?export=view&id=1eYtqcHvh6RyKIR3fbE_rBjrkxMqbV_Ky" alt="JavaScript" width="40" height="40"/>
