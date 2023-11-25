@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farmankazi&label=Profile%20views&color=0e75b6&style=flat" alt="farmankazi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farmankazi" alt="farmankazi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farmankazi" alt="farmankazi" /></a> </p><br>
 
 
 - 🌱 I’m currently learning **ASP.NET & C#**
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me <br>
 **personalfarmankazi@gmail.com** <br>
-**developerfarmankazi@gmail.com**
+**developerfarmankazi@gmail.com** <br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
