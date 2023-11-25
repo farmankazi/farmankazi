@@ -27,13 +27,13 @@
     <img src="https://drive.google.com/uc?export=view&id=1swOUDBcafxRd8n3-Vnxny5oJRT43RjGE" alt="HTML" width="40" height="40"/>
     <img src="https://drive.google.com/uc?export=view&id=1i7fY5_ZU85hpEVx6XZmzdUOSI1nXOH2o" alt="CSS" width="40" height="40"/>
     <img src="https://drive.google.com/uc?export=view&id=1eYtqcHvh6RyKIR3fbE_rBjrkxMqbV_Ky" alt="JavaScript" width="40" height="40"/>
-    <img src="https://drive.google.com/uc?export=view&id=1P4KmQUv01rvfFBrQNBMXP1LHPyBv2vDQ" alt="Android" width="40" height="40"/>
     <img src="https://drive.google.com/uc?export=view&id=1RYaWDCublEKKEF0iIxPKK6dtuiaOkQxS" alt=".NET" width="40" height="40"/>
-    <img src="https://drive.google.com/uc?export=view&id=1X4HaHLMYWzWxiDEBbQFasKOJp47b3maY" alt="Figma" width="40" height="40"/>
+    <img src="https://drive.google.com/uc?export=view&id=1P4KmQUv01rvfFBrQNBMXP1LHPyBv2vDQ" alt="Android" width="40" height="40"/>
     <img src="https://drive.google.com/uc?export=view&id=12y8N4gMgeNVp9L1uRpTj1aDGShEerMl-" alt="Kotlin" width="40" height="40"/>
+    <img src="https://drive.google.com/uc?export=view&id=1Ose6Wo-NrtzFZDPmLNuBRAFmi89-UawN" alt="Oracle" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     <img src="https://drive.google.com/uc?export=view&id=15dOTZXs9fGAV9T2KzBJLk5dVLh76E_Py" alt="MongoDB" width="80" height="40"/>
-    <img src="https://drive.google.com/uc?export=view&id=1Ose6Wo-NrtzFZDPmLNuBRAFmi89-UawN" alt="Oracle" width="40" height="40"/>
+    <img src="https://drive.google.com/uc?export=view&id=1X4HaHLMYWzWxiDEBbQFasKOJp47b3maY" alt="Figma" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farmankazi&show_icons=true&locale=en&layout=compact" alt="farmankazi" /></p>
