@@ -9,10 +9,10 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farmankazi" alt="farmankazi" /></a>
 </p><br>
 
+- ⚡ I'm **Believer**
 
 - 🌱 I’m currently learning **ASP.NET & C#**
 
-- 💬 Ask me about **HTML, CSS & JavaScript**
 <br>
 
 <h3 align="left">How to reach me:</h3>
