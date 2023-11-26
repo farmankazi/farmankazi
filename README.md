@@ -13,14 +13,14 @@
 - 🌱 I’m currently learning **ASP.NET & C#**
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
+<br>
 
-- 📫 How to reach me <br>
-**personalfarmankazi@gmail.com** <br>
-**developerfarmankazi@gmail.com** <br><br>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to reach me:</h3>
 
 <p align="left">
+    <a href="mailto:developerfarmankazi@gmail.com" target="blank">
+        <img align="center" src="https://drive.google.com/uc?export=view&id=17g3Ggpu_yLR7fV9Qo_T6zG5SUUP_FqDf" alt="Gmail" height="30" width="40" />
+    </a>
     <a href="https://linkedin.com/in/farmankazi" target="blank">
         <img align="center" src="https://drive.google.com/uc?export=view&id=18iDh8VBUuhQcZsvevEQJWKrZArHmHkRH" alt="https://linkedin.com/in/farmankazi" height="30" width="40" />
     </a>
