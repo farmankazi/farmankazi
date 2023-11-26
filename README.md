@@ -42,9 +42,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     <img src="https://drive.google.com/uc?export=view&id=1RYaWDCublEKKEF0iIxPKK6dtuiaOkQxS" alt=".NET" width="40" height="40"/>
     <img src="https://drive.google.com/uc?export=view&id=15dOTZXs9fGAV9T2KzBJLk5dVLh76E_Py" alt="MongoDB" width="80" height="40"/>
-    <img src="https://drive.google.com/uc?export=view&id=1P4KmQUv01rvfFBrQNBMXP1LHPyBv2vDQ" alt="Android" width="40" height="40"/>
+    <!-- <img src="https://drive.google.com/uc?export=view&id=1P4KmQUv01rvfFBrQNBMXP1LHPyBv2vDQ" alt="Android" width="40" height="40"/>
     <img src="https://drive.google.com/uc?export=view&id=12y8N4gMgeNVp9L1uRpTj1aDGShEerMl-" alt="Kotlin" width="40" height="40"/>
-    <img src="https://drive.google.com/uc?export=view&id=1hwqg6FpqiuJTjidni3ALR-7qDezppRz_" alt="Python" width="40" height="40"/>
+    <img src="https://drive.google.com/uc?export=view&id=1hwqg6FpqiuJTjidni3ALR-7qDezppRz_" alt="Python" width="40" height="40"/> -->
     <img src="https://drive.google.com/uc?export=view&id=1X4HaHLMYWzWxiDEBbQFasKOJp47b3maY" alt="Figma" width="40" height="40"/>
 </p>
 
