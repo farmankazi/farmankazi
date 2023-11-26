@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Farman Kazi</h1>
 <h3 align="center">A passionate Web Developer from Mumbai</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farmankazi&label=Profile%20views&color=0e75b6&style=flat" alt="farmankazi" /> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=farmankazi&label=Profile%20views&color=0e75b6&style=flat" alt="farmankazi" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farmankazi" alt="farmankazi" /></a> </p><br>
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farmankazi" alt="farmankazi" /></a>
+</p><br>
 
 
 - 🌱 I’m currently learning **ASP.NET & C#**
@@ -15,11 +19,19 @@
 **developerfarmankazi@gmail.com** <br><br>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/farmankazi" target="blank"><img align="center" src="https://drive.google.com/uc?export=view&id=18iDh8VBUuhQcZsvevEQJWKrZArHmHkRH" alt="https://linkedin.com/in/farmankazi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22983423/farman-kazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22983423/farman-kazi" height="30" width="40" /></a>
-<a href="https://twitter.com/klashinijo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="klashinijo" height="30" width="40" /></a>
-</p><br>
+    <a href="https://linkedin.com/in/farmankazi" target="blank">
+        <img align="center" src="https://drive.google.com/uc?export=view&id=18iDh8VBUuhQcZsvevEQJWKrZArHmHkRH" alt="https://linkedin.com/in/farmankazi" height="30" width="40" />
+    </a>
+    <a href="https://stackoverflow.com/users/22983423/farman-kazi" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22983423/farman-kazi" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/klashinijo" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="klashinijo" height="30" width="40" />
+    </a>
+</p>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -35,12 +47,12 @@
     <img src="https://drive.google.com/uc?export=view&id=1X4HaHLMYWzWxiDEBbQFasKOJp47b3maY" alt="Figma" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farmankazi&show_icons=true&locale=en&layout=compact" alt="farmankazi" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=farmankazi&show_icons=true&locale=en" alt="farmankazi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farmankazi&" alt="farmankazi" /></p>
-
-
-<!---
-farmankazi/farmankazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farmankazi&show_icons=true&locale=en&layout=compact" alt="farmankazi" />
+</p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=farmankazi&show_icons=true&locale=en" alt="farmankazi" />
+</p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farmankazi&" alt="farmankazi" />
+</p>
