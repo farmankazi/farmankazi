@@ -10,8 +10,7 @@
 </p><br>
 
 - ⚡ I'm **Believer**
-
-- 🌱 I’m currently learning **ASP.NET & C#**
+- 🌱 I’m currently learning **Kotlin and Jetpack Compose**
 
 <br>
 
