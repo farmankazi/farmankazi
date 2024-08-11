@@ -22,7 +22,7 @@
         <img align="center" src="" alt="Gmail" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/farmankazi" target="blank">
-        <img align="center" src="" alt="https://linkedin.com/in/farmankazi" height="30" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="https://linkedin.com/in/farmankazi" height="30" width="40" />
     </a>
     <a href="https://stackoverflow.com/users/22983423/farman-kazi" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22983423/farman-kazi" height="30" width="40" />
