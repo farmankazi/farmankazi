@@ -35,17 +35,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-    <img src="https://drive.google.com/uc?export=view&id=1swOUDBcafxRd8n3-Vnxny5oJRT43RjGE" alt="HTML" width="40" height="40"/>
-    <img src="https://drive.google.com/uc?export=view&id=1i7fY5_ZU85hpEVx6XZmzdUOSI1nXOH2o" alt="CSS" width="40" height="40"/>
-    <img src="https://drive.google.com/uc?export=view&id=1eYtqcHvh6RyKIR3fbE_rBjrkxMqbV_Ky" alt="JavaScript" width="40" height="40"/>
-    <img src="https://drive.google.com/uc?export=view&id=1Ose6Wo-NrtzFZDPmLNuBRAFmi89-UawN" alt="Oracle" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    <img src="https://drive.google.com/uc?export=view&id=1RYaWDCublEKKEF0iIxPKK6dtuiaOkQxS" alt=".NET" width="40" height="40"/>
-    <img src="https://drive.google.com/uc?export=view&id=15dOTZXs9fGAV9T2KzBJLk5dVLh76E_Py" alt="MongoDB" width="80" height="40"/>
-    <!-- <img src="https://drive.google.com/uc?export=view&id=1P4KmQUv01rvfFBrQNBMXP1LHPyBv2vDQ" alt="Android" width="40" height="40"/>
-    <img src="https://drive.google.com/uc?export=view&id=12y8N4gMgeNVp9L1uRpTj1aDGShEerMl-" alt="Kotlin" width="40" height="40"/>
-    <img src="https://drive.google.com/uc?export=view&id=1hwqg6FpqiuJTjidni3ALR-7qDezppRz_" alt="Python" width="40" height="40"/> -->
-    <img src="https://drive.google.com/uc?export=view&id=1X4HaHLMYWzWxiDEBbQFasKOJp47b3maY" alt="Figma" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="80" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="AndroidStudio" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
 <p>
